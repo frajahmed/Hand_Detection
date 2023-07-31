@@ -11,7 +11,7 @@ MediaPipe is open-source library released by Google. Which is 3-D based state of
 Using MediaPipe to predict hand landmarks in real time environment is pretty much straight forward. Where hand detection method is precisely explained as above. In this section we will describe in detail how we can use hand detection model, plot 21 landmarks on hand and use them to differentiate different hand gestures.
 In this section we will go side by side with python code to explain detection and plotting algorithm of landmarks on hand. Figure shows sample picture of hand landmarks which are being plotted using MediaPipe library.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="A9vgXV7"><a href="https://imgur.com/A9vgXV7">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/A9vgXV7)
 <a href="https://imgur.com/A9vgXV7"><img src="https://imgur.com/A9vgXV7" title="source: imgur.com" /></a>
 
 
