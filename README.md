@@ -12,7 +12,7 @@ Using MediaPipe to predict hand landmarks in real time environment is pretty muc
 In this section we will go side by side with python code to explain detection and plotting algorithm of landmarks on hand. Figure shows sample picture of hand landmarks which are being plotted using MediaPipe library.
 
 
-<a href="https://imgur.com/a/POGf6vH"><img src="https://imgur.com/a/POGf6vH" title="source: imgur.com" /></a>
+<a href="https://imgur.com/A9vgXV7"><img src="https://imgur.com/A9vgXV7" title="source: imgur.com" /></a>
 
 
 # 4. Gesture Recognition Algorithm:
